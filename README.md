@@ -1,6 +1,19 @@
 ### Hi there 👋
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=njohal13)](https://github.com/njohal13/github-readme-stats)
 
+### Projects
+
+
+### Pokedex
+![Screen Recording 2022-05-14 at 6](https://user-images.githubusercontent.com/98681977/168454881-6a199e2b-c9a4-42cf-896b-bc4e658ad2f5.gif)
+
+
+### Weather App
+![weather-app (1)](https://user-images.githubusercontent.com/98681977/168454927-7e89250e-193c-4602-808a-ba251c6a9790.gif)
+
+
+
+
 <!--
 **njohal13/njohal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
