@@ -11,6 +11,8 @@
 ### Weather App
 ![weather-app (1)](https://user-images.githubusercontent.com/98681977/168454927-7e89250e-193c-4602-808a-ba251c6a9790.gif)
 
+### Animated Landing Page
+![animated-landingpage](https://user-images.githubusercontent.com/98681977/171325956-0f6d146f-0354-4e51-8074-e8d7949760f8.gif)
 
 
 
