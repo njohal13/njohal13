@@ -11,10 +11,14 @@
   <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 
 
-### Projects
+### My Projects
 
 ### Animated Landing Page
 ![animated-landingpage](https://user-images.githubusercontent.com/98681977/171325956-0f6d146f-0354-4e51-8074-e8d7949760f8.gif)
+  
+### NASA APP - Image of the Day
+![nasa-api](https://user-images.githubusercontent.com/98681977/172957833-1f0e8aba-49a6-4118-9a55-2ba4147e61a1.gif)
+
 
 ### Pokedex
 ![Screen Recording 2022-05-14 at 6](https://user-images.githubusercontent.com/98681977/168454881-6a199e2b-c9a4-42cf-896b-bc4e658ad2f5.gif)
