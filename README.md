@@ -19,12 +19,11 @@
 ### NASA APP - Image of the Day
 ![nasa-api](https://user-images.githubusercontent.com/98681977/172957833-1f0e8aba-49a6-4118-9a55-2ba4147e61a1.gif)
 
-
-### Pokedex
-![Screen Recording 2022-05-14 at 6](https://user-images.githubusercontent.com/98681977/168454881-6a199e2b-c9a4-42cf-896b-bc4e658ad2f5.gif)
-
 ### Weather App
 ![weather-app (1)](https://user-images.githubusercontent.com/98681977/168454927-7e89250e-193c-4602-808a-ba251c6a9790.gif)
+  
+### Pokedex
+![Screen Recording 2022-05-14 at 6](https://user-images.githubusercontent.com/98681977/168454881-6a199e2b-c9a4-42cf-896b-bc4e658ad2f5.gif)
 
 ### My Github Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=njohal13&show_icons=true&theme=tokyonight)](https://github.com/njohal13/github-readme-stats)
