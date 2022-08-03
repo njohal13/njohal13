@@ -36,7 +36,7 @@ I'm a Full-Stack Developer based in Canada. <br /> I am passionate about creatin
     <td width="50%" valign="top">
       <h3 align="center">NASA Image API</h3>
         <br />
-      <a target="_blank" href="https://aquaadvisor.netlify.app/">
+      <a target="_blank" href="">
             <img src="https://user-images.githubusercontent.com/98681977/172957833-1f0e8aba-49a6-4118-9a55-2ba4147e61a1.gif"/>
         </a>
         <br />
