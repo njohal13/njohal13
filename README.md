@@ -1,5 +1,5 @@
 <h4 align="center">
-I'm a Full-Stack Developer based in Canada. <br /> I am passionate about create web applications that are responsive, powerful and accessible.
+I'm a Full-Stack Developer based in Canada. <br /> I am passionate about creating web applications that are responsive, powerful and accessible.
 </h4>
 <br>
 
