@@ -83,7 +83,7 @@ I'm a Full-Stack Developer based in Canada. <br /> I am passionate about creatin
   <a href="" target="_blank">
    
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://github.com/njohal13/weather" target="_blank">
     
   </a>
       </p>
