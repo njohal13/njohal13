@@ -18,77 +18,64 @@ I'm a Full-Stack Developer based in Canada. <br />  Focused on creating web appl
 
 
 <table bordercolor="#66b2b2">
-  <tr>
+  <tr>  
     <td width="50%" valign="top">
-      <h3 align="center">Fitband+</h3>
+      <h3 align="center"> Fitband+ </h3>
         <br />
         <a target="">
             <img src="https://user-images.githubusercontent.com/98681977/171325956-0f6d146f-0354-4e51-8074-e8d7949760f8.gif"/>
         </a>
         <br />
-        <p align="center"> 
-  
-    
-  </a>
-      </p>
+        <p align="center">  </p>
         <p><strong>HTML/CSS</strong> - Fitband+ animated landing page</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">NASA Image API</h3>
+
+	  
+   <td width="50%" valign="top">
+      <h3 align="center"> NASA Image API </h3>
         <br />
-      <a target="_blank" href="">
-            <img src="https://user-images.githubusercontent.com/98681977/172957833-1f0e8aba-49a6-4118-9a55-2ba4147e61a1.gif"/>
-        </a>
+      	<a target="_blank" href="">
+           <img src="https://user-images.githubusercontent.com/98681977/172957833-1f0e8aba-49a6-4118-9a55-2ba4147e61a1.gif"/>
+      	</a>
         <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-   
-  </a>
-  <a href="">
-   
-  </a>
-      </p>
-        <p><strong>HTML/CSS/JavaScript</strong> - A Web API to generate NASA daily image/video </p>
-    </td> 
+        <p align="center"></p>
+        <p><strong>HTML/CSS/JavaScript</strong> - A Web API to generate an image/videofrom NASA  API </p>
+    </td> 	  
   </tr>
   
-  <tr>
+  
+  <tr>  
     <td width="50%" valign="top">
-      <h3 align="center">Task Manager</h3>
+      <h3 align="center"> Task Manager </h3>
         <br />
-      <a target="_blank" href="">
-            <img src="https://user-images.githubusercontent.com/98681977/176308951-c3a289cb-23fe-41ec-b45e-e07ad49ac459.mov"/>
+      	<a target="_blank" href="">
+          <img alt="todolist" src="https://user-images.githubusercontent.com/98681977/187013522-4fb0d35b-f730-48dc-88a9-bcb79af92c24.png"/>
         </a>
         <br />
         <p align="center">
-          
-  <a href="" target="_blank">
-   
-  </a>
-  <a href="" target="_blank">
-  </a>
-      </p>
+  	   <a href="" target="_blank"></a>
+  	   <a href="" target="_blank"></a>
+      	</p>
         <p><strong>HTML/CSS/JavaScript/MongoDB/Node.js</strong> - A full-stack application to save and organize tasks</p>
     </td>
+	
+	
+	
+	
+	
    <td width="50%" valign="top">
-      <h3 align="center">Weather APP</h3>
+      <h3 align="center"> Weather APP </h3>
         <br />
         <a target="_blank" href="">
             <img src="https://user-images.githubusercontent.com/98681977/168454927-7e89250e-193c-4602-808a-ba251c6a9790.gif"/>
         </a>
         <br />
         <p align="center">
-          
-  <a href="" target="_blank">
-   
-  </a>  
-  <a href="https://github.com/njohal13/weather" target="_blank">
-    
-  </a>
-      </p>
+  	    <a href="" target="_blank"></a>  
+  	    <a href="https://github.com/njohal13/weather" target="_blank"></a>
+      	</p>
         <p><strong>HTML/CSS/JavaScript</strong> - An API app used to generate weather information globally</p>
-    </td>
+    </td>  
   </tr>
 	
 </table>
