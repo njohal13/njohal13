@@ -77,12 +77,12 @@ I'm a Full-Stack Developer based in Canada. <br />  Focused on creating web appl
      <td width="50%" valign="top">
       <h3 align="center"> Weather APP </h3>
         <br />
-        <a target="_blank" href="">
+        <a target="_blank" href="https://njweather.netlify.app/">
             <img src="https://user-images.githubusercontent.com/98681977/168454927-7e89250e-193c-4602-808a-ba251c6a9790.gif"/>
         </a>
         <br />
         <p align="center">
-  	    <a href="" target="_blank">
+  	    <a href="https://njweather.netlify.app/" target="_blank">
 	    	<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
 	    </a>  
   	    <a href="https://github.com/njohal13/weather" target="_blank">
