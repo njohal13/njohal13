@@ -22,12 +22,19 @@ I'm a Full-Stack Developer based in Canada. <br />  Focused on creating web appl
     <td width="50%" valign="top">
       <h3 align="center"> Fitband+ </h3>
         <br />
-        <a target="">
+        <a target="_blank" href="https://fitbandpage.netlify.app/">
             <img src="https://user-images.githubusercontent.com/98681977/171325956-0f6d146f-0354-4e51-8074-e8d7949760f8.gif"/>
         </a>
         <br />
-        <p align="center">  </p>
-        <p><strong>HTML/CSS</strong> - Fitband+ animated landing page</p>
+        <p align="center">
+		<a href="https://github.com/njohal13/animated-landingpage" target="_blank">
+    			<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  		</a>  
+  		<a href="https://fitbandpage.netlify.app/" target="_blank">
+    			<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  		</a>
+	</p>
+        <p> Animated landing page made with HTML & CSS animations for Fitband+ </p>
     </td>
 
 	  
@@ -38,12 +45,53 @@ I'm a Full-Stack Developer based in Canada. <br />  Focused on creating web appl
            <img src="https://user-images.githubusercontent.com/98681977/172957833-1f0e8aba-49a6-4118-9a55-2ba4147e61a1.gif"/>
       	</a>
         <br />
-        <p align="center"></p>
-        <p><strong>HTML/CSS/JavaScript</strong> - A Web API to generate an image/videofrom NASA  API </p>
+        <p align="center">
+		<a href="https://github.com/njohal13/" target="_blank">
+    			<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  		</a>  
+  		<a href="" target="_blank">
+    			<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  		</a>
+	</p> 
+        <p><strong>HTML/CSS/JavaScript</strong> - An API integrated web app that can generate any image or video from NASA </p>
     </td> 	  
   </tr>
-  
-  
+  <tr>  
+    <td width="50%" valign="top">
+      <h3 align="center"> Pokedex </h3>
+        <br />
+        <a target="_blank" href="">
+            <img src="https://user-images.githubusercontent.com/98681977/168454881-6a199e2b-c9a4-42cf-896b-bc4e658ad2f5.gif"/>
+        </a>
+        <br />
+        <p align="center">
+		<a href="https://github.com/njohal13/pokedex" target="_blank">
+    			<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  		</a>  
+  		<a href="" target="_blank">
+    			<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  		</a>
+	</p>
+        <p> Pokemon pokedex with API integration & CSS animations </p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center"> Weather APP </h3>
+        <br />
+        <a target="_blank" href="">
+            <img src="https://user-images.githubusercontent.com/98681977/168454927-7e89250e-193c-4602-808a-ba251c6a9790.gif"/>
+        </a>
+        <br />
+        <p align="center">
+  	    <a href="" target="_blank">
+	    	<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+	    </a>  
+  	    <a href="https://github.com/njohal13/weather" target="_blank">
+	    	<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+	    </a>
+      	</p>
+        <p><strong>HTML/CSS/JavaScript</strong> - An API app used to generate weather information globally</p>
+    </td>  
+  </tr>
   <tr>  
     <td width="50%" valign="top">
       <h3 align="center"> Task Manager </h3>
@@ -53,40 +101,41 @@ I'm a Full-Stack Developer based in Canada. <br />  Focused on creating web appl
         </a>
         <br />
         <p align="center">
-  	   <a href="" target="_blank"></a>
-  	   <a href="" target="_blank"></a>
+  	    <a href="" target="_blank">
+	    	<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+	    </a>  
+  	    <a href="https://github.com/njohal13/to-do-list" target="_blank">
+	    	<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+	    </a>
       	</p>
         <p><strong>HTML/CSS/JavaScript/MongoDB/Node.js</strong> - A full-stack application to save and organize tasks</p>
-    </td>
-	
-	
-	
-	
-	
-   <td width="50%" valign="top">
-      <h3 align="center"> Weather APP </h3>
+     
+  <tr>  
+    <td width="50%" valign="top">
+      <h3 align="center"> Ace Cuts </h3>
         <br />
-        <a target="_blank" href="">
-            <img src="https://user-images.githubusercontent.com/98681977/168454927-7e89250e-193c-4602-808a-ba251c6a9790.gif"/>
+        <a target="_blank" href="https://acecutsbarbers.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/98681977/182456318-afe8393b-5066-4dd6-b03d-b76b3162feb3.png"/>
         </a>
         <br />
         <p align="center">
-  	    <a href="" target="_blank"></a>  
-  	    <a href="https://github.com/njohal13/weather" target="_blank"></a>
-      	</p>
-        <p><strong>HTML/CSS/JavaScript</strong> - An API app used to generate weather information globally</p>
-    </td>  
-  </tr>
-	
+		<a href="https://github.com/njohal13/fullwebsitev2-barbershop" target="_blank">
+    			<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  		</a>  
+  		<a href="https://acecutsbarbers.netlify.app/" target="_blank">
+    			<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  		</a>
+	</p>
+        <p> Static Website for Ace Cuts Barbershop </p>
+    </td>
+   <tr> 
+     
 </table>
 
 
 
-<hr/>
 
 
-### Pokedex
-![Screen Recording 2022-05-14 at 6](https://user-images.githubusercontent.com/98681977/168454881-6a199e2b-c9a4-42cf-896b-bc4e658ad2f5.gif)
 
 
 <hr/>
