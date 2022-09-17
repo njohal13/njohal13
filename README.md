@@ -1,10 +1,11 @@
 <h4 align="center">
-I'm a Full-Stack Developer based in Canada. <br />  Focused on creating web applications that are responsive, powerful and accessible.
+Hi, I'm NJ a Full-Stack Developer based in Canada. <br />  Focused on creating web applications that are responsive, powerful and accessible.
 </h4>
 <br>
 
 
-<p>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/REACT-3776AB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -12,7 +13,7 @@ I'm a Full-Stack Developer based in Canada. <br />  Focused on creating web appl
   <img alt="Mongo" src="https://img.shields.io/badge/MONGODB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" /> 
   <img alt="Express" src="https://img.shields.io/badge/EXPRESS-000000?logo=express&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-
+</p>
 
 <h1 align="center">Projects</h1>
 
@@ -134,13 +135,11 @@ I'm a Full-Stack Developer based in Canada. <br />  Focused on creating web appl
 
 
 
-
-
-
-
 <hr/>
 
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=njohal13&show_icons=true&theme=tokyonight)](https://github.com/njohal13/github-readme-stats)
+
 
 <hr/>
 <!--
