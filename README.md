@@ -1,5 +1,5 @@
 <h4 align="center">
-Hi, I'm NJ a Full-Stack Developer based in Canada. <br />  Focused on creating web applications that are responsive, powerful and accessible.
+Hi, I'm NJ a Full-Stack Developer based in Canada. <br />  Focused on solving problems with web applications that are responsive, powerful and accessible.
 </h4>
 <br>
 
