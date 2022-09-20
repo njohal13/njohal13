@@ -131,17 +131,9 @@ Hi, I'm NJ a Full-Stack Developer based in Canada. <br />  Focused on creating w
     </td>
    <tr> 
      
+     
 </table>
 
-
-
-<hr/>
-
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=njohal13&show_icons=true&theme=tokyonight)](https://github.com/njohal13/github-readme-stats)
-
-
-<hr/>
 <!--
 **njohal13/njohal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
